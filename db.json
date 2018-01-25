@@ -2,19 +2,7 @@
 "profile":
   [
     {
-      "id": 1,
-      "username": "coba1",
-      "password": "coba1"
-    },
-    {
-      "id": 2,
-      "username": "coba2",
-      "password": "coba2"
-    },
-    {
-     "id": 3,
-     "username": "coba3",
-     "password": "coba3"
+      "id": 1,"username": "coba1","password": "coba1"
     }
   ]
 }
